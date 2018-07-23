@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DailyAffirmations</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Layout -->
+    <string name="addNewAffirmationGroup">New\ngroup</string>
+    <string name="addNewAffirmation">New\nAffirmation</string>
+
+    <!-- Dialog Box Strings -->
+    <string name="newAffirmationDialogBoxMessage">Enter new affirmation...</string>
+    <string name="newAffirmationGroupDialogBoxMessage">Name of affirmation group...</string>
+
+    <!--- Menu Item Strings -->
+    <string name="turnOnNotifications">Turn on notifications</string>
+    <string name="turnOffNotifications">Turn off notifications</string>
+
+    <!--- Notification Strings -->
+    <string name="notificationTicker">I HAVE NOT IDEA ATM!</string>
+    <string name="notificationContentTitle">Daily Affirmation</string>
+    <string name="notificationContentText">I HAVE NOT IDEA ATM!</string>
+</resources>
